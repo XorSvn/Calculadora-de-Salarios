@@ -51,6 +51,7 @@ project/
 ```
 git clone https://github.com/ElHackerDaniel/Calculadora-de-Salarios.git
 ```
+```
 cd Calculadora-de-Salarios
 ```
 
