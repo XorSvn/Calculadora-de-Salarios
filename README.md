@@ -169,4 +169,4 @@ http://127.0.0.1:5000
 ----
 Proyecto desarrollado como parte del proceso de aprendizaje en desarrollo web Full Stack, enfocado en la construcción de un sistema que calcula el salario, utilizando Python, html, css y sql.
 
-Att: ElHackerDaniel
+Att: XorSvn
